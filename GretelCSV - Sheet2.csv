@@ -1,0 +1,13 @@
+Prompts
+"For the given Combo Items I want conversations in customer context. How a customer can ask with different types of combinations with the modification of size, toppings."
+Available Combo is :
+Pizza and Traditional Bone-In Wings - it's a combination of pizza and wings
+default comes with Large Cheese Pizza and 10 Traditional Bone-In Wings starting at $37.99. Upgrade to an X Large for an additional cost. Toppings to be charged at regular menu price.
+Cases1 : All the combos has only 2 available pizza size large and extra large known as 14 inch and 16 inch.
+"Case2 : available crust lovers : garlic butter, herb butter , butter"
+"case 3: Extra Cheese, Light Cheese, No Cheese, Sausage, Spicy Italian Sausage, Turkey Sausage, Pepperoni, turkey pepperoni, plant based pepperoni, bacon, ham, ground beef, chicken, chorizo, mushrooms, roasted mushrooms, onions , caramelized onions, red onion, bell pepper, roasted red pepper, jalapenos, Giardiniera, Banana Peppers, Diced Tomatoes, plum Tomatoes, Zucchini / Squash Mix, Spinach, Fresh Basil, Fresh Garlic, Roasted Garlic, Black Olives, Green Olives, Pineapple, Pickles, Cheddar Cheese, Supreme Topping"
+case4: all the toppings can be added as light and extras and also on the half n half part of the pizza.
+"case 5: sauces: White Sauce, promodoro sauce, bbq sauce, golden bbq, buffalo sauce,"
+"case 6: baking instructions: just right, bake right, bake well, take n bake"
+"cutting instructions: no cut, traditional cut."
+"Adding examples to create test cases with size + ingredient, ingredient + size, size, ingredient kind of combination of cases"
