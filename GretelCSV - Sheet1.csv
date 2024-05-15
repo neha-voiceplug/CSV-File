@@ -1,0 +1,300 @@
+item_name,size,synonyms,Ingredients
+Pizza,Personal,"*Pizzas, Build my own Pizza, Build your own Pizza*",Mushrooms
+Pizza,Small,"*Pizzas, Build my own Pizza, Build your own Pizza*",Extra Mushroom
+Pizza,Large,"*Pizzas, Build my own Pizza, Build your own Pizza*",Extra Roasted Mushrooms
+Pizza,Extra Large,"*Pizzas, Build my own Pizza, Build your own Pizza*",Roasted Mushrooms
+Pizza,Gluten Free,"*Pizzas, Build my own Pizza, Build your own Pizza*",Onions
+Joes Famous Italian Sausage Pizza,Personal,"*Personal Joes Pizza,Italian Sausage Pizza Personal size,Personal Sausage Pizza,joes famous italian,joe famous italian sausage,joes famous italian sausage,cheese and sausage pizza,joe Famous Italian pizza*",Extra Onions
+Joes Famous Italian Sausage Pizza,Small,"*Small Joes Pizza,Italian Sausage Pizza Small,Small Sausage Pizza,joes famous italian,joe famous italian sausage,joes famous italian sausage,cheese and sausage pizza,joe Famous Italian pizza,Joes Famous Italian pizza*",Caramelized Onions
+Joes Famous Italian Sausage Pizza,Large,"*Large Joes Pizza,Italian Sausage Pizza Large,Large Sausage Pizza,joes famous italian,joe famous italian sausage,joes famous italian sausage,cheese and sausage pizza,joe Famous Italian pizza,Joes Famous Italian pizza*",Extra Caramelized Onions
+Joes Famous Italian Sausage Pizza,Extra Large,"*Extra Large Joes Pizza,Italian Sausage Pizza Extra Large,Extra Large Sausage Pizza,joes famous italian,joe famous italian sausage,joes famous italian sausage,cheese and sausage pizza,Joes Famous Italian pizza*",Red Onion
+Joes Famous Italian Sausage Pizza,Gluten Free,"*Gluten Free Joes Pizza,Italian Sausage Pizza Gluten Free,Gluten Free Sausage Pizza,joes famous italian,joe famous italian sausage,joes famous italian sausage,cheese and sausage pizza,joe Famous Italian pizza,Joes Famous Italian pizza*",Extra Bell Pepper
+Chorizo Fiesta Taco Pizza,Personal,"*Personal Chorizo Pizza,Personal Fiesta Taco Pizza,Personal Chorizo Taco Pizza,Personal Taco Pizza,Chorizo Fiesta Taco,Chorizo Fiesta,Chorizo Taco,Chorizo Pizza*",Bell Pepper
+Chorizo Fiesta Taco Pizza,Small,"*Small Chorizo Pizza,Small Fiesta Taco Pizza,Small Chorizo Taco Pizza,Small Taco Pizza,Chorizo Fiesta Taco,Chorizo Fiesta,Chorizo Taco,Chorizo Pizza*",Roasted Red Pepper
+Chorizo Fiesta Taco Pizza,Large,"*Large Chorizo Pizza,Large Fiesta Taco Pizza,Large Chorizo Taco Pizza,Large Taco Pizza,Chorizo Fiesta Taco,Chorizo Fiesta,Chorizo Taco,Chorizo Pizza*",Extra Jalapenos
+Chorizo Fiesta Taco Pizza,Extra Large,"*Extra Large Chorizo Pizza,Extra Large Fiesta Taco Pizza,Extra Large Chorizo Taco Pizza,Extra Large Taco Pizza,Chorizo Fiesta Taco,Chorizo Fiesta,Chorizo Taco,Chorizo Pizza*",Jalapenos
+Chicken Carbonara Pizza,Personal,"*Personal Carbonara Pizza,Chicken Carbonara,Carbonara Chicken Pizza,Carbonara Chicken,Carbonara Pizza,Carbonara*",Extra Giardiniera
+Chicken Carbonara Pizza,Small,"*Small Carbonara Pizza, Chicken Carbonara, Carbonara Chicken Pizza,Carbonara Chicken,Carbonara Pizza,Carbonara*",Giardiniera
+Chicken Carbonara Pizza,Large,"*Large Carbonara Pizza, Chicken Carbonara, Carbonara Chicken Pizza,Carbonara Chicken,Carbonara Pizza,Carbonara*",Banana Peppers
+Chicken Carbonara Pizza,Extra Large,"*Extra Large Carbonara Pizza, Chicken Carbonara, Carbonara Chicken Pizza,Carbonara Chicken,Carbonara Pizza,Carbonara*",Diced Tomatoes
+Chicken Carbonara Pizza,Gluten Free,"*Gluten Free Carbonara Pizza, Chicken Carbonara, Carbonara Chicken Pizza,Carbonara Chicken,Carbonara Pizza,Carbonara*",Plum Tomatoes
+Red and White Pizza,Personal,"*Personal Red White Pizza,Personal White Red Pizza,Personal White and Red Pizza,Red and White,White and Red,Red White,White Red,white and red Pizza*",Zucchini Squash Mix
+Red and White Pizza,Small,"*Small Red White Pizza,Small White Red Pizza,Small White and Red Pizza,Red and White,White and Red,Red White,White Red,small white and red Pizza,white and red Pizza*",Extra Spinach
+Red and White Pizza,Large,"*Large Red White Pizza,Large White Red Pizza,Large White and Red Pizza,Red and White,White and Red,Red White,White Red,white and red Pizza*",Spinach
+Red and White Pizza,Extra Large,"*Extra Large Red White Pizza,Extra Large White Red Pizza,Extra Large White and Red Pizza,Red and White,White and Red,Red White,White Red,white and red Pizza*",Fresh Basil
+Red and White Pizza,Gluten Free,"*Gluten Free Red White Pizza,Gluten Free White Red Pizza,Gluten Free White and Red Pizza,Red and White,White and Red,Red White,White Red,white and red Pizza*",Fresh Garlic
+Nicks Super Pizza,Personal,"*Personal Nicks Pizza, Nick Pizza, Nicks Pizza, Super Nick Pizza, Super Nicks Pizza,Nicks Supreme*",Roasted Garlic
+Nicks Super Pizza,Small,"*Small Nicks Pizza, Nick Pizza, Nicks Pizza, Super Nick Pizza, Super Nicks Pizza,Nicks Supreme*",Black Olives
+Nicks Super Pizza,Large,"*Large Nicks Pizza, Nick Pizza, Nicks Pizza, Super Nick Pizza, Super Nicks Pizza,Nicks Supreme*",Green Olives
+Nicks Super Pizza,Extra Large,"*Extra Large Nicks Pizza, Nick Pizza, Nicks Pizza, Super Nick Pizza, Super Nicks Pizza,Nicks Supreme*",Carrot Sticks
+Nicks Super Pizza,Gluten Free,"*Gluten Free Nicks Pizza, Nick Pizza, Nicks Pizza, Super Nick Pizza, Super Nicks Pizza,Nicks Supreme*",Pickles
+Lauras Favorite Pizza,Personal,"*Personal Lauras Pizza,Lauras Favorite, Laura Favorite, Laura Favorite Pizza*",Garbanzo Beans
+Lauras Favorite Pizza,Small,"*Small Lauras Pizza,Lauras Favorite, Laura Favorite, Laura Favorite Pizza,Lauras Pizza*",Romaine Blend
+Lauras Favorite Pizza,Large,"*Large Lauras Pizza,Lauras Favorite, Laura Favorite, Laura Favorite Pizza,Lauras Pizza*",Iceberg and Romaine Mix
+Lauras Favorite Pizza,Extra Large,"*Extra Large Lauras Pizza,Lauras Favorite, Laura Favorite, Laura Favorite Pizza,Lauras Pizza*",Cucumbers
+Lauras Favorite Pizza,Gluten Free,"*Lauras Pizza Gluten Free,Lauras Favorite, Laura Favorite, Laura Favorite Pizza,Lauras Pizza*",Grape Tomatoes
+Chicagos Best Pizza,Personal,"*Personal Chicagos Pizza,Chicago Pizza Personal, Chicagos Pizza, Chicago Pizza,Personal Chicago,Chicago,Chicagos Best,Meat Lover, Meat Lover Pizza, Meat Lovers, Meat Lovers Pizza*",Roasted Corn
+Chicagos Best Pizza,Small,"*Small Chicagos Pizza,Small Chicago Pizza, Chicagos Pizza, Chicago Pizza,Chicago,Small Chicago,Chicagos Best,Meat Lover, Meat Lover Pizza, Meat Lovers, Meat Lovers Pizza*",Pineapple
+Chicagos Best Pizza,Large,"*Large Chicagos Pizza,Large Chicago Pizza, Chicagos Pizza, Chicago Pizza,Chicago,Large Chicago,Chicagos Best,Meat Lover, Meat Lover Pizza, Meat Lovers, Meat Lovers Pizza*",Extra Pineapple
+Chicagos Best Pizza,Extra Large,"*Extra Large Chicagos Pizza,Extra Large Chicago Pizza, Chicagos Pizza, Chicago Pizza,Chicago,Extra Large Chicago,Chicagos Best,Meat Lover, Meat Lover Pizza, Meat Lovers, Meat Lovers Pizza*",Light Pizza Sauce
+Chicagos Best Pizza,Gluten Free,"*Gluten Free Chicagos Pizza,Gluten Free Chicago Pizza, Chicagos Pizza, Chicago Pizza,Chicago,Gluten Free Chicago,Chicagos Best,Meat Lover, Meat Lover Pizza, Meat Lovers, Meat Lovers Pizza*",Light White Sauce
+Double Pepperoni Pizza,Personal,"*Personal Double Pepp Pizza,Personal Double Pepperoni Pie,Personal Pizza with Double Pepperoni,Double Pepperoni*",Extra Pizza Sauce
+Double Pepperoni Pizza,Small,"*Small Double Pepp Pizza,Small Double Pepperoni Pie,Small Pizza with Double Pepperoni,Double Pepperoni*",Extra White Sauce
+Double Pepperoni Pizza,Large,"*Large Double Pepp Pizza,Large Double Pepperoni Pie,Large Pizza with Double Pepperoni,Double Pepperoni*",Side Pizza Sauce
+Double Pepperoni Pizza,Extra Large,"*Extra Large Double Pepp Pizza,Extra Large Double Pepperoni Pie,Extra Large Pizza with Double Pepperoni,Double Pepperoni*",White Sauce
+Double Pepperoni Pizza,Gluten Free,"*Double Pepp Pizza Gluten Free,Gluten Free Double Pepperoni Pie,Gluten Free Pizza with Double Pepperoni,Double Pepperoni*",Side White Sauce
+Garlic Fireball Pizza,Personal,"*Personal Fireball Pizza,garlic fireball,garlic fire ball,garlic fire ball pizza,garlic pizza,fireball,fireball pizza*",Pomodoro Sauce
+Garlic Fireball Pizza,Small,"*Small Fireball Pizza, garlic fireball, garlic fire ball, garlic fire ball pizza,garlic pizza,fireball,fireball pizza*",House Gorgonzola
+Garlic Fireball Pizza,Large,"*Large Fireball Pizza, garlic fireball, garlic fire ball, garlic fire ball pizza,garlic pizza,fireball,fireball pizza*",Bleu Cheese
+Garlic Fireball Pizza,Extra Large,"*Extra Large Fireball Pizza, garlic fireball, garlic fire ball, garlic fire ball pizza,garlic pizza,fireball,fireball pizza*",Lite Italian
+Garlic Fireball Pizza,Gluten Free,"*Gluten Free Fireball Pizza, garlic fireball, garlic fire ball, garlic fire ball pizza,garlic pizza,fireball,fireball pizza*",French Dressing
+The 1947 Pizza,Personal,"*Personal 1947 Pizza,Personal Nineteen forty seven Pizza,Personal One nine four seven Pizza*",Caesar Dressing
+The 1947 Pizza,Small,"*Small 1947 Pizza,Small Nineteen forty seven Pizza,Small One nine four seven Pizza,1947 small pizza*",Balsamic Vinaigrette
+The 1947 Pizza,Large,"*Large 1947 Pizza,Large Nineteen forty seven Pizza,Large One nine four seven Pizza the 1947 large pizza,1947 large pizza, The 1947 large pizza,1947 large pizza*",Pizza Sauce Drizzle
+The 1947 Pizza,Extra Large,"*Extra Large 1947 Pizza,Extra Large Nineteen forty seven Pizza,Extra Large One nine four seven Pizza*",Extra Pizza Sauce Drizzle
+The 1947 Pizza,Gluten Free,"*Gluten Free 1947 Pizza,Gluten Free Nineteen forty seven Pizza,Gluten Free One nine four seven Pizza*",Raspberry Vinaigrette
+Carolina Barbecue Chicken Pizza,Personal,"*Personal Carolina Chicken Pizza,Personal Carolina Barbecue Pizza,Personal Carolina Barbeque Pizza,Personal Carolina Barbecue Pizza, Carolina bbq Pizza, Carolina bbq chicken Pizza,Carolina BBQ Chicken,Carolina BBQ,Carolina Barbecue,Carolina Barbeque,Carolina,carolina barbeque chicken*",Harvest Vinaigrette
+Carolina Barbecue Chicken Pizza,Small,"*Small Carolina Chicken Pizza,Small Carolina Barbecue Pizza,Small Carolina Barbeque Pizza,Small Carolina Barbecue Pizza, Carolina bbq Pizza, Carolina bbq chicken Pizza,Carolina BBQ Chicken,Carolina BBQ,Carolina Barbecue,Carolina Barbeque,Carolina,carolina barbeque chicken*",Apple Cider Vinaigrette
+Carolina Barbecue Chicken Pizza,Large,"*Large Carolina Chicken Pizza,Large Carolina Barbecue Pizza,Large Carolina Barbeque Pizza,Large Carolina Barbecue Pizza, Carolina bbq Pizza, Carolina bbq chicken Pizza,Carolina BBQ Chicken,Carolina BBQ,Carolina Barbecue,Carolina Barbeque,Carolina,carolina barbeque chicken*",Hot and Mild Sauce
+Carolina Barbecue Chicken Pizza,Extra Large,"*Extra Large Carolina Chicken Pizza,Extra Large Carolina Barbecue Pizza,Extra Large Carolina Barbeque Pizza,Extra Large Carolina Barbecue Pizza, Carolina bbq Pizza, Carolina bbq chicken Pizza,Carolina BBQ Chicken,Carolina BBQ,Carolina Barbecue,Carolina Barbeque,Carolina,carolina barbeque chicken*",Golden Buffalo Sauce
+Carolina Barbecue Chicken Pizza,Gluten Free,"*Gluten Free Carolina Chicken Pizza,Gluten Free Carolina Barbecue Pizza,Gluten Free Carolina Barbeque Pizza,Gluten Free Carolina Barbecue Pizza, Carolina bbq Pizza, Carolina bbq chicken Pizza,Carolina BBQ Chicken,Carolina BBQ,Carolina Barbecue,Carolina Barbeque,Carolina,carolina barbeque chicken*",Lemon Pepper Dry Rub
+Buffalo Chicken Pizza,Personal,"*Personal Buffalo Pizza, Buffalo Chicken, Chicken Buffalo Pizza,Buffalo*",Barbecue Sauce
+Buffalo Chicken Pizza,Small,"*Small Buffalo Pizza, Buffalo Chicken, Chicken Buffalo Pizza,Buffalo*",Extra Barbecue Sauce
+Buffalo Chicken Pizza,Large,"*Large Buffalo Pizza, Buffalo Chicken, Chicken Buffalo Pizza,Buffalo*",Fire Sauce
+Buffalo Chicken Pizza,Extra Large,"*Extra Large Buffalo Pizza, Buffalo Chicken, Chicken Buffalo Pizza,Buffalo*",Ranch Dressing
+Buffalo Chicken Pizza,Gluten Free,"*Gluten Free Buffalo Pizza, Buffalo Chicken, Chicken Buffalo Pizza,Buffalo*",Medium Sauce
+Spicy Nicky Pizza,Personal,"*Personal Spicy Pizza,Personal Nicky Pizza,Personal Nickys Pizza,Personal Nickies Pizza,Personal Spicy Nicky,spicy nikki pizza,spicy nikki*",Extra Golden Barbecue Sauce
+Spicy Nicky Pizza,Small,"*Small Spicy Pizza,Small Nicky Pizza,Small Nickys Pizza,Small Nickies Pizza,Small Spicy Nicky,spicy nikki pizza,spicy nikki,Nicky,Nikky*",Chicago Mild Sauce
+Spicy Nicky Pizza,Large,"*Large Spicy Pizza,Large Nicky Pizza,Large Nickys Pizza,Large Nickies Pizza,Large Spicy Nicky,spicy nikki pizza,spicy nikki,Nicky,Nikky*",Sweet Barbecue Sauce
+Spicy Nicky Pizza,Extra Large,"*Extra Large Spicy Pizza,Extra Large Nicky Pizza,Extra Large Nickys Pizza,Extra Large Nickies Pizza,Extra Large Spicy Nicky,spicy nikki pizza,spicy nikki,Nicky,Nikky*",Golden Barbecue Sauce
+Spicy Nicky Pizza,Gluten Free,"*Gluten Free Spicy Pizza,Gluten Free Nicky Pizza,Gluten Free Nickys Pizza,Gluten Free Nickies Pizza,Gluten Free Spicy Nicky,spicy nikki pizza,spicy nikki,Nicky,Nikky*",Garlic Parmesan Sauce
+Sweet Caliente Pizza,Personal,"*Personal Sweet Caliente,Personal Caliente Pizza,Personal Sweet Pizza*",Pizza Sauce
+Sweet Caliente Pizza,Small,"*Small Sweet Caliente,Small Caliente Pizza,Small Sweet Pizza,Caliente*",Plain
+Sweet Caliente Pizza,Large,"*Large Sweet Caliente,Large Caliente Pizza,Large Sweet Pizza,Caliente*",Buffalo Sauce
+Sweet Caliente Pizza,Extra Large,"*Extra Large Sweet Caliente,Extra Large Caliente Pizza,Extra Large Sweet Pizza,Caliente*",Sausage
+Sweet Caliente Pizza,Gluten Free,"*Gluten Free Sweet Caliente,Gluten Free Caliente Pizza,Gluten Free Sweet Pizza,Caliente*",Extra Sausage
+Double Turkey Pepperoni Pizza,Personal,"*Personal Pizza with Double Turkey Pepperoni,Double Turkey Pepperoni,Double dirty Pepperoni,Double thirty Pepperoni,Double thirsty Pepperoni,Double Turkey pizza*",Spicy Italian Sausage
+Double Turkey Pepperoni Pizza,Small,"*Small Pizza with Double Turkey Pepperoni,Double Turkey Pepperoni,Double dirty Pepperoni,Double thirty Pepperoni,Double thirsty Pepperoni,Double Turkey pizza*",Turkey Sausage
+Double Turkey Pepperoni Pizza,Large,"*Large Pizza with Double Turkey Pepperoni,Double Turkey Pepperoni,Double dirty Pepperoni,Double thirty Pepperoni,Double thirsty Pepperoni,Double Turkey pizza*",Pepperoni
+Double Turkey Pepperoni Pizza,Extra Large,"*Extra Large Pizza with Double Turkey Pepperoni,Double Turkey Pepperoni,Double dirty Pepperoni,Double thirty Pepperoni,Double thirsty Pepperoni,Double Turkey pizza*",Extra Pepperoni
+Double Turkey Pepperoni Pizza,Gluten Free,"*Gluten Free Pizza with Double Turkey Pepperoni,Double Turkey Pepperoni,Double dirty Pepperoni,Double thirty Pepperoni,Double thirsty Pepperoni,Double Turkey pizza*",Double Pepperoni
+Strictly Veggie Pizza,Personal,"*Personal Garden Pizza,Personal Vegetarian Pizza,Personal Veggie Pizza,Personal Veg Pizza,Personal Veggie Combo Pizza,Garden Special,Veggie Deluxe Pizza,Vegetarian Special,Veggie Special,Vegetarian Special Pizza,Garden Special Pizza,Veggie,Vegetarian,Veg,Weight Pizza,strictly veggie,strictly veg*",Extra Double Pepperoni
+Strictly Veggie Pizza,Small,"*Small Garden Pizza,Small Vegetarian Pizza,Small Veggie Pizza,Veg Pizza,Veggie Combo Pizza,Garden Special,Veggie Deluxe Pizza,Vegetarian Special,Veggie Special,Vegetarian Special Pizza,Garden Special Pizza,Veggie,Vegetarian,Veg,Weight Pizzastrictly veggie,strictly veg*",Turkey Pepperoni
+Strictly Veggie Pizza,Large,"*Large Garden Pizza,Large Vegetarian Pizza,Large Veggie Pizza,Veg Pizza,Veggie Combo Pizza,Garden Special,Veggie Deluxe Pizza,Vegetarian Special,Veggie Special,Vegetarian Special Pizza,Garden Special Pizza,Veggie,Vegetarian,Veg,Weight Pizza,strictly veggie,strictly veg*",Double Turkey Pepperoni
+Strictly Veggie Pizza,Extra Large,"*Extra Large Garden Pizza,Extra Large Vegetarian Pizza,Extra Large Veggie Pizza,Veg Pizza,Veggie Combo Pizza,Garden Special,Veggie Deluxe Pizza,Vegetarian Special,Veggie Special,Vegetarian Special Pizza,Garden Special Pizza,Veggie,Vegetarian,Veg,Weight Pizza,strictly veggie,strictly veg*",Extra Double Turkey Pepperoni
+Strictly Veggie Pizza,Gluten Free,"*Gluten Free Garden Pizza,Gluten Free Vegetarian Pizza,Gluten Free Veggie Pizza,Gluten Free Veg Pizza,Veggie Combo Pizza,Garden Special,Veggie Deluxe Pizza,Vegetarian Special,Veggie Special,Vegetarian Special Pizza,Garden Special Pizza,Veggie,Vegetarian,Veg,Weight Pizza,strictly veggie,strictly veg*",Light Double Turkey pepperoni
+Bacon Cheeseburger Pizza,Personal,"*Personal Bacon Burger Pizza,Bacon and Burger Pizza,bacon cheeseburger,Personal bacon double cheeseburger,bacon double cheese burger,bacon pizza,Bacon Double Cheeseburger,Bacon Cheeseburger,Personal Bacon Cheeseburger, bacon hamburger pizza, bacon hamburger, bacon burger pizza*",Side Double Turkey pepperoni
+Bacon Cheeseburger Pizza,Small,"*Small Bacon Burger Pizza,Small Bacon and Burger Pizza,Small bacon cheeseburger,bacon double cheeseburger,bacon double cheese burger,bacon pizza,Bacon Double Cheeseburger,Bacon Cheeseburger,Double Bacon Cheeseburger, bacon hamburger pizza, bacon hamburger, bacon burger pizza*",Plant Based Pepperoni
+Bacon Cheeseburger Pizza,Large,"*Large Bacon Burger Pizza,Large Bacon and Burger Pizza,Large bacon cheeseburger,bacon double cheeseburger,bacon double cheese burger,bacon pizza,Bacon Double Cheeseburger,Bacon Cheeseburger,Double Bacon Cheeseburger, bacon hamburger pizza, bacon hamburger, bacon burger pizza*",Bacon
+Bacon Cheeseburger Pizza,Extra Large,"*Extra Large Bacon Burger Pizza,Extra Large Bacon and Burger Pizza,Extra Large bacon cheeseburger,bacon double cheeseburger,bacon double cheese burger,bacon pizza,Bacon Double Cheeseburger,Bacon Cheeseburger,Double Bacon Cheeseburger, bacon hamburger pizza, bacon hamburger, bacon burger pizza*",Bacon Crumbles
+Bacon Cheeseburger Pizza,Gluten Free,"*Gluten Free Bacon Burger Pizza,Gluten Free Bacon and Burger Pizza,Gluten Free bacon cheeseburger,bacon double cheeseburger,bacon double cheese burger,bacon pizza,Bacon Double Cheeseburger,Bacon Cheeseburger,Double Bacon Cheeseburger, bacon hamburger pizza, bacon hamburger, bacon burger pizza*",Extra Bacon
+Barbecue Chicken Pizza,Personal,"*Personal Barbecue Chicken Pizza,Personal Barbeque Chicken Pizza,Personal Barbecue Pizza,Personal Barbeque Pizza, bbq chicken Pizza,Barbecue Chicken*",Ham
+Barbecue Chicken Pizza,Small,"*Small Barbecue Chicken Pizza,Small Barbeque Chicken Pizza,Small Barbecue Pizza,Small Barbeque Pizza, bbq chicken Pizza,Barbecue Chicken*",Ground Beef
+Barbecue Chicken Pizza,Large,"*Large Barbecue Chicken Pizza,Large Barbeque Chicken Pizza,Large Barbecue Pizza,Large Barbeque Pizza, bbq chicken Pizza,Barbecue Chicken*",Chicken
+Barbecue Chicken Pizza,Extra Large,"*Extra Large Barbecue Chicken Pizza,Extra Large Barbeque Chicken Pizza,Extra Large Barbecue Pizza,Extra Large Barbeque Pizza, bbq chicken Pizza,Barbecue Chicken*",Grilled Chicken
+Barbecue Chicken Pizza,Gluten Free,"*Gluten Free Barbecue Chicken Pizza,Gluten Free Barbeque Chicken Pizza,Gluten Free Barbecue Pizza,Gluten Free Barbeque Pizza, bbq chicken Pizza,Barbecue Chicken*",Crispy Chicken
+Pizza Lite,Personal,"*Personal No cheese pizza,Pizza light,No cheese pizza,No keys pizza,No tees pizza,No peace pizza,Pizza lite,Pizza life,Pizza like*",Roasted Chicken
+Pizza Lite,Small,"*Small No cheese pizza,Pizza light,No cheese pizza,No keys pizza,No tees pizza,No peace pizza,Pizza lite,Pizza life,Pizza like*",Extra Chicken
+Pizza Lite,Large,"*Large No cheese pizza,Pizza light,No cheese pizza,No keys pizza,No tees pizza,No peace pizza,Pizza lite,Pizza life,Pizza like*",Chorizo
+Pizza Lite,Extra Large,"*Extra Large No cheese pizza,Pizza light,No cheese pizza,No keys pizza,No tees pizza,No peace pizza,Pizza lite,Pizza life,Pizza like*",Extra Chorizo
+Pizza Lite,Gluten Free,"*Gluten Free No cheese pizza,Pizza light,No cheese pizza,No keys pizza,No tees pizza,No peace pizza,Pizza lite,Pizza life,Pizza like*",Extra Cheese
+Cheeseburger Pizza,Personal,"*Personal Cheeseburger,Personal Cheeseburger Pie,Personal Burger Pizza, hamburger pizza, hamburger, burger pizza*",Parmesan Cheese
+Cheeseburger Pizza,Small,"*Small Cheeseburger,Small Cheeseburger Pie,Small Burger Pizza, hamburger pizza, hamburger, burger pizza*",Extra Parmesan Cheese
+Cheeseburger Pizza,Large,"*Large Cheeseburger,Large Cheeseburger Pie,Large Burger Pizza, hamburger pizza, hamburger, burger pizza*",Romano Cheese
+Cheeseburger Pizza,Extra Large,"*Extra Large Cheeseburger,Extra Large Cheeseburger Pie,Extra Large Burger Pizza, hamburger pizza, hamburger, burger pizza*",Extra Romano Cheese
+Cheeseburger Pizza,Gluten Free,"*Gluten Free Cheeseburger,Gluten Free Cheeseburger Pie,Gluten Free Burger Pizza, hamburger pizza, hamburger, burger pizza*",Light Cheese
+Mimis Masterpiece Pizza,Personal,"*Personal Mimis Masterpiece,Personal Masterpiece Pizza,Mimi masterpiece,Mimis masterpiece,Masterpiece*",Cheddar Cheese
+Mimis Masterpiece Pizza,Small,"*Small Mimis Masterpiece,Small Masterpiece Pizza,Mimi masterpiece,Mimis masterpiece,Masterpiece*",Extra Cheddar Cheese
+Mimis Masterpiece Pizza,Large,"*Large Mimis Masterpiece,Large Masterpiece Pizza,Mimi masterpiece,Mimis masterpiece,Masterpiece*",Blue Cheese Crumbles
+Mimis Masterpiece Pizza,Extra Large,"*Extra Large Mimis Masterpiece,Extra Large Masterpiece Pizza,Mimi masterpiece,Mimis masterpiece,Masterpiece*",Extra Bleu Cheese Crumbles
+Heart Shaped Pizza,Standard,"*10 inch Heart Pizza,10 inch Heart Shaped Pizza, Heart Shaped Pizza,Heart Pizza,10 inch Love Pizza,Love Pizza,Hard Pizza*",Supreme Topping
+Lemon Pepper Bone In Wings,10 piece,"*Lemon Pepper Wings,Lemon Pepper,Lemon Pepper Traditional,Traditional Lemon Peppe,lemon rubbed,lemon Wings,10 wings,10 wing,10 wing,Wings,chicken wings*",Spice
+Traditional Bone In Wings,10 piece,"*Bone In Wings,Bone In Wing,Boned Wings,Wings with Bone,Wings with Bones,Traditional Breaded,Traditional Wings,Traditional Wing,10 wings,10 wing,Wings,chicken wings,10 piece bone in wings,10 traditional wings,10 piece traditional wings*",Extra Spice
+6 piece Chicken Dippers,Standard,"*Chicken Dippers 6 piece, Chicken Dippers 6 pieces, Chicken Nuggets, Chicken Dipper, Chicken Digger, Chicken Deeper, Large Tray Chicken Dippers, 6 piece Chicken Dipper,6 piece Chicken Nugget,Six Piece Chicken Nuggets,Chicken Dipper,Chicken Digger,Chicken Deeper,6 wing, 6 wings,6 Chicken Dippers*",Extra Italian Seasoning
+10 piece Chicken Dippers,Standard,"*Chicken Dippers 10 piece, Chicken Dippers 10 pieces, Chicken Nuggets, Chicken Dipper, Chicken Digger, Chicken Deeper, Large Tray Chicken Dippers, 10 piece Chicken Dipper,10 piece Chicken Nugget,Ten piece Chicken Nuggets,Chicken Dipper,Chicken Digger,Chicken Deeper,10 wings,10 wing,10 Chicken Dippers,10 piece Dippers,10 Dippers*",Garlic Butter Crust
+10 piece Boneless Wings,Standard,"*Boneless Wings 10 piece,Boneless Wings 10 pieces, Boneless wing, Bonus Wings, Bonus Wing, Ten piece Boneless wings,10 piece Boneless wing,Boneless wing,Boneless,No Bone wing,No Bone wings,10 bonus Wings,10 boneless Wings,10 wings,10 wing,boneless chicken wings,10 boneless chicken wings,Wings,chicken wings*",Herb Butter Crust
+18 piece Boneless Wings,Standard,"*Boneless Wings 18 piece,Boneless Wings 18 pieces, Boneless wing, Bonus Wings, Bonus Wing, Eighteen piece Boneless wings,18 piece Boneless wing,Boneless wing,Boneless,No Bone wing,No Bone wings,18 wing,18 wings,18 boneless wings,boneless chicken wings,Wings,chicken wings,18 piece wings*",Butter Crust
+Hot Fries,Standard,"*Hot Tries,Hot Cries,Hot Fry*",Bake Light
+Stuffed Arancini,Standard,"*Stuff Arancini,Arancini*",Bake Well
+Fried Pickles,Standard,"*Fried Pickle,Cried Pickles,Tried Pickles*",Take and Bake
+8 piece Mozzarella Sticks,Standard,"*Mozzarella Sticks 8 piece, Mozzarella Sticks 8 pieces, Mozzarella Stick,Cheese Sticks,Cheese Stick,Keys Stick,Keys tick,Kees Stick,8 mozzarella sticks,eight mozzarella sticks,8 Cheese Sticks,8 mozzarella stick,eight piece mozarella sticks*",Just Right
+12 piece Mozzarella Sticks,Standard,"*Mozzarella Sticks 12 piece, Mozzarella Sticks 12 pieces, Mozzarella Stick,Cheese Sticks,Cheese Stick,Keys Stick,Keys tick,Kees Stick,12 mozzarella sticks,twelve mozzarella sticks,12 Cheese Sticks,twelve piece mozarella sticks*",Cut
+Cheesy Garlic Bread,Standard,"*Garlic Cheesy Bread,Garlic Cheese Bread,Cheese Garlic Bread,,garlic bread with cheese,garlic bread with the cheese,garlic bread cheese*",Italian Seasoning
+Garlic Bread,Standard,"*Classic Garlic Bread,Garlic Bread,Traditional Garlic Bread*",Chocolate Chip
+Bruschetta,Standard,"*Brushetta,Brusketta*",Sugar
+French Fries,Standard,"*Fries,Tries,Cries*",Oatmeal Raisin
+Garlic Parmesan Fries,Standard,"*Parmesan Fries,Parmesan Tries,Parmesan Cries,Garlic Parmesan Tries,Garlic Parmesan Cries,Garlic Parmesan Fries,Garlic Parmesan Fry,garlic parm fries*",Snickerdoodle
+Super Fries,Standard,"*Super Tries,Super Cries,Super Fry*",Strawberry Shortcake
+Chicken Club Melt,Standard,"*Chicken Melt,Chicken Club,Chicken Club Sandwich,club melt,club metls*",Marinated Pasta
+Patty Melt,Standard,*Patty Melt Sandwich*,Sunflower Seeds
+Carolina Barbecue Chicken Melt,Standard,"*Carolina Barbecue Chicken Sandwich,Barbecue Chicken Sandwich,Carolina BBQ Chicken Melt,carolina BBQ Melt,Carolina Barbecue melt*",Craisins
+Chicago Melt,Standard,"*Chicago Melt Sandwich,Chicago Sandwich*",Apples
+Roasted Veggie Melt,Standard,"*Veggie Melt,Roasted Veggie Melt Sandwich,Roasted Veggie Sandwich,Roasted Veggies Sandwich*",Toasted Almonds
+Farmers Pasta,Individual,*Farmer Pasta*,Strawberries
+Farmers Pasta,Family,*Farmer Pasta*,Candied Walnuts
+Italian Sausage Penne Marinara,Individual,"*Sausage Penne Marinara,Italian Sausage Penne Marinara Pasta,Sausage Penne Marinara Pasta,pasta marinara,ITALIAN SAUSAGE PASTA*",Croutons
+Italian Sausage Penne Marinara,Family,"*Sausage Penne Marinara,Italian Sausage Penne Marinara Pasta,Sausage Penne Marinara Pasta,pasta marinara,ITALIAN SAUSAGE PASTA*",All Drums
+Penne Pomodoro,Individual,"*Penne Pomodoro Pasta,pasta pomodoro*",All Flats
+Penne Pomodoro,Family,"*Penne Pomodoro Pasta,pasta pomodoro*",Mixed Flats and Drums
+Penne Alfredo,Individual,"*Penne Alfredo Pasta,Alfredo Penne Pasta, alfredo pasta*",Cheddar Cheese Sauce
+Penne Alfredo,Family,"*Penne Alfredo Pasta,Alfredo Penne Pasta*",Tossed
+Penne Alla Vodka,Individual,"*Penne Alla Vodka Pasta,Penne Ala Vodka Pasta*",Sauce on the Side
+Penne Alla Vodka,Family,"*Penne Alla Vodka Pasta,Penne Ala Vodka Pasta*",Pesto Drizzle
+Classic Penne Marinara,Individual,"*Classic Penne Marinara Pasta,pasta marinara,Penne Marinara*",Extra Pesto Drizzle
+Classic Penne Marinara,Family,"*Classic Penne Marinara Pasta,pasta marinara,Penne Marinara*",
+Chicken Noodle Soup,Standard,"*Chicken Soup,Noodle Soup,chicken Noodle, Soup, Soups*",
+Spinach Salad,Small,"*Hearty Spinach Salad, Hearty Spinach*",
+Spinach Salad,Entree,"*Hearty Spinach Salad, Hearty Spinach*",
+Signature Salad,Small,"*HRI Signature Salad,Home run in salad, Signature Salad*",
+Signature Salad,Entree,"*HRI Signature Salad,Home run in salad, Signature Salad*",
+Caesar Salad,Small,"*Caesars Salad,Caesar Salads,she is a salad,she is salad,seizure salad,ceasar salad,,HRI Caesar Salad*",
+Caesar Salad,Entree,"*Caesars Salad,Caesar Salads,she is a salad,she is salad,seizure salad,ceasar salad,,HRI Caesar Salad*",
+Harvest Salad,Small,"*Hardest salad,Harvest Salad*",
+Harvest Salad,Entree,"*Hardest salad,Harvest Salad*",
+Strawberry Walnut Salad,Small,"*Strawberry Salad,Walnut Salad,strawberry wallnut,strawberries salad*",
+Strawberry Walnut Salad,Entree,"*Strawberry Salad,Walnut Salad,strawberry wallnut,strawberries salad*",
+Garden Salad,Small,"*Gardens Salad,Garden Salads,garden small salad*",
+Garden Salad,Entree,"*Gardens Salad,Garden Salads*",
+Family Deal Combo,Standard,"*Family Deal,Family Combo*",
+Pizza and Bone In Wings Combo,Standard,"*Combo Bone In Wings and Pizza,Combo Wings and Pizza, Pizza and Wings Combo,Pizza and Bone Wings Combo,Pizza and Bone In Wings*",
+Cheesy Deal Combo,Standard,"*Cheesy Combo,Cheesy Deal*",
+Pizza and Chicken Dippers Combo,Standard,"*Pizza and Chicken Dippers,Pizza and Chicken Nuggets,Pizza and Chicken Nuggets Combo*",
+Pizza and Garlic Bread Combo,Standard,"*Pizza and Garlic Bread, Combo Pizza and Garlic Bread,Combo Garlic Bread and Pizza*",
+Pizza and Cheese Sticks Combo,Standard,*Pizza and Cheese Sticks*,
+Pizza and Salad Combo,Standard,*Pizza and Salad*,
+Pizza and Boneless Wings Combo,Standard,"*Pizza and Boneless Wings,Boneless Wings and Pizza,Boneless Wings and Pizza Combo*",
+Friends and Family Deal Combo,Standard,"*Friends and Family Deal,Friends and Family Combo,Friends Combo*",
+Pizza Salad and Garlic Bread Combo,Standard,"*Pizza Salad and Garlic Bread,Salad Pizza and Garlic Bread,Garlic Bread Pizza and Salad,Garlic Bread Salad and Pizza*",
+DIY Pizza Kit,Standard,"*DIY Pizza,DIY Kit*",
+Take and Bake Pizza,Personal,"*Take and Bake Pizza, par baked pizza, par bake pizza, parbaked pizza, parbake pizza*",
+Take and Bake Pizza,Small,"*Take and Bake Pizza, par baked pizza, par bake pizza, parbaked pizza, parbake pizza*",
+Take and Bake Pizza,Large,"*Take and Bake Pizza, par baked pizza, par bake pizza, parbaked pizza, parbake pizza*",
+Take and Bake Pizza,Extra Large,"*Take and Bake Pizza, par baked pizza, par bake pizza, parbaked pizza, parbake pizza*",
+Take and Bake Chicken Dippers,Standard,"*Take and Bake Chicken Dippers,Take and Bake Chicken Nuggets,Take and Bake Nuggets, par baked chicken dippers, par baked dippers, par bake chicken dippers, par bake dippers, parbaked chicken dippers, parbaked dippers, parbake chicken dippers, parbake dippers*",
+Take and Bake Cheesy Garlic Bread,Standard,"*Take and Bake Cheesy Garlic Bread,Take and Bake Garlic Cheesy Bread,Take and Bake Garlic Cheese Bread, par bake cheesy garlic bread, par baked cheese garlic bread, par baked cheesy garlic bread, par baked cheese garlic bread, parbake cheesy garlic bread, parbaked cheese garlic bread, parbaked cheesy garlic bread, parbaked cheese garlic bread*",
+Take and Bake Garlic Bread,Standard,"*Take and Bake Garlic Bread, par baked garlic bread, par bake garlic bread, parbaked garlic bread, parbake garlic bread*",
+Take and Bake Bruschetta,Standard,"*Take and Bake Bruchetta, Take and Bake Bruchetta, Take Bake Bruchetta, Take and Bake Bruschetta, Take Bruschetta, par baked Bruschetta, par bake Bruschetta, parbaked Bruschetta, parbake Bruschetta*",
+Take and Bake Penne Marinara,Standard,"*Take and Bake Penne Marinara, par baked marinara, par bake marinara pasta, par baked Penne Marinara, par bake Penne Marinara, parbaked marinara, parbake marinara pasta, parbaked Penne Marinara, parbake Penne Marinara*",
+Take and Bake Penne Alla Vodka,Standard,"*Take and Bake Penne Alla Vodka, par baked alla vodka, par bake alla vodka, par baked vodka, parbaked alla vodka, parbake alla vodka, parbaked vodka,take and bake Alla Vodka*",
+Take and Bake Penne Alfredo,Standard,"*Take and Bake Penne Alfredo, par baked penne alfredo, par bake penne alfredo, par baked alfredo pasta, par bake alfredo pasta, parbaked penne alfredo, parbake penne alfredo, parbaked alfredo pasta, parbake alfredo pasta*",
+Take and Bake Penne Pomodoro,Standard,"*Take and Bake Penne Pomodoro, par baked Penne Pomodoro, par bake Penne Pomodoro, parbaked Penne Pomodoro, parbake Penne Pomodoro*",
+Take and Bake Farmers Pasta,Standard,"*Take and Bake Farmers Pasta, par baked Farmers Pasta, par bake Farmers Pasta, parbaked Farmers Pasta, parbake Farmers Pasta*",
+Take and Bake Signature Salad,Standard,"*Take and Bake Signature Salad, par bake signature salad, par baked signature salad, par baked HRI signature salad, par bake HRI Signature salad, par baked home run in salad, par bake home run in salad, parbake signature salad, parbaked signature salad, parbaked HRI signature salad, parbake HRI Signature salad, parbaked home run in salad, parbake home run in salad*",
+Take and Bake Harvest Salad,Standard,"*Take and Bake Harvest Salad, par baked harvest salad, par bake harvest salad, parbaked harvest salad, parbake harvest salad*",
+Take and Bake Strawberry Walnut Salad,Standard,"*Take and Bake Strawberry Walnut Salad, par bake strawberry walnut salad, par baked Strawberry Walnut Salad, par baked Strawberry Salad, par baked Walnut Salad, par baked Walnut Strawberry Salad, parbake strawberry walnut salad, parbaked Strawberry Walnut Salad, parbaked Strawberry Salad, parbaked Walnut Salad, parbaked Walnut Strawberry Salad*",
+Take and Bake Caesar Salad,Standard,"*Take and Bake Caesar Salad, par bake Caesar salad, par baked Caesar salad, parbake Caesar salad, parbaked Caesar salad*",
+Take and Bake Garden Salad,Standard,"*Take and Bake Garden Salad, par baked garden salad, par bake garden salad, parbaked garden salad, parbake garden salad*",
+Take and Bake Spinach Salad,Standard,"*Take and Bake Spinach Salad, par baked spinach salad, par bake spinach salad, parbaked spinach salad, parbake spinach salad,take and bake hearty spinach,take and bake hearty spinach salad*",
+Fresh Baked Cookies,12 piece,"*Cookies,Fresh Cookies,Baked Cookies*",
+Brownie Bites,Standard,"*Brownie,Brownie Bite*",
+Confetti Cupcake,Single,"*Confetti,Con fetty,Contetti,Cupcake,cupcakes*",
+Confetti Cupcake,4 Pack,"*Confetti,Con fetty,Contetti,Cupcake,cupcakes*",
+Confetti Cupcake,Dozen,"*Confetti,Con fetty,Contetti,Cupcake,cupcakes*",
+Chocolate Bomb Cupcake,Single,"*Chocolate Cupcake,Chocolate Bomb,Cupcake,cupcakes*",
+Chocolate Bomb Cupcake,4 Pack,"*Chocolate Cupcake,Chocolate Bomb,Cupcake,cupcakes*",
+Chocolate Bomb Cupcake,Dozen,"*Chocolate Cupcake,Chocolate Bomb,Cupcake,cupcakes*",
+Gooey Butter Cupcake,Single,"*Gooey Cupcake,Butter Cupcake,Cupcake,cupcakes*",
+Gooey Butter Cupcake,4 Pack,"*Gooey Cupcake,Butter Cupcake,Cupcake,cupcakes*",
+Gooey Butter Cupcake,Dozen,"*Gooey Cupcake,Butter Cupcake,Cupcake,cupcakes*",
+Red Velvet Cupcake,Single,"*Red Velvet,Velvet,Cupcake,cupcakes*",
+Red Velvet Cupcake,4 Pack,"*Red Velvet,Velvet,Cupcake,cupcakes*",
+Red Velvet Cupcake,Dozen,"*Red Velvet,Velvet,Cupcake,cupcakes*",
+Cookie Monster,Standard,"*Monster,Cutie Monster*",
+Kids Pizza,Standard,"*Kid Pizza,Childs Pizza,Child Pizza,6 inch pizza*",
+Kids Boneless Wings,Standard,"*Kids Boneless Wing,Kids Wings,Kids size Wings*",
+Apple Juice,Standard,*Apple Juice Box*,
+2% Milk,Standard,"*Mik,Mick,milk*",
+Chocolate Milk,Standard,"*Chocolate Mik,Chocolate Mick*",
+Pepsi,Bottle,**,
+Pepsi,Cann,"*Coca cola,Coke Cola,Cola,Cokes,Coat,Coats,Coke,Pep c*",
+Pepsi,6 Pack,"*Coca cola,Coke Cola,Cola,Cokes,Coat,Coats,Coke,Pep c*",
+Diet Pepsi,Bottle,**,
+Diet Pepsi,Cann,"*Diet Coca cola,Diet Coke Cola,Diet Cola,Diet Coat,Diet Coke,Diet Coats,Diet Cocacola,Diet Pep c*",
+Diet Pepsi,6 Pack,"*Diet Coca cola,Diet Coke Cola,Diet Cola,Diet Coat,Diet Coke,Diet Coats,Diet Cocacola,Diet Pep c*",
+Sierra Mist,Bottle,**,
+Sierra Mist,Cann,"*Lime Lemon Soda,Lime and Lemon Soda,Lime Soda,Lemon Soda,Starry*",
+Sierra Mist,6 Pack,"*Lime Lemon Soda,Lime and Lemon Soda,Lime Soda,Lemon Soda,Starry*",
+Bottled Water,Standard,"*Bottle Water,Water*",
+Side Jalapeno,Standard,"*Side of Jalapeno,Jalapeno on Side,Jalapeno on the Side,side of jalapeno peppers*",
+Side Jiarduhneeruh,Standard,"*Side of Giardiniera,Giardiniera on Side,Giardiniera on the Side,side of giardiniera peppers*",
+Side Salad Dressing,Standard,"*Side of Salad Dressing,Salad Dressing on Side,Salad Dressing on the Side,Small Salad Dressing Side*",
+Side Wing Sauce,Standard,"*Side of Wing Sauce,Wing Sauce on Side,Wing Sauce on the Side,Small Wing Sauce Side*",
+Grilled Chicken Breast,Standard,"*Grilled Chicken Breast Side,Grilled Chicken*",
+Crispy Chicken Breast,Standard,"*Crispy Chicken Breast Side,Crispy Chicken*",
+Festive Pesto Bianco Pizza,Personal,"*Personal Festive Pizza,Pesto Bianco Pizza,Personal Pesto Pizza,Bianco Pizza,Festive Bianco Pizza,Personal Festive Pesto Pizza*",
+Festive Pesto Bianco Pizza,Small,"*Small Festive Pizza,Pesto Bianco Pizza,Small Pesto Pizza,Bianco Pizza,Festive Bianco Pizza,Small Festive Pesto Pizza*",
+Festive Pesto Bianco Pizza,Large,"*Large Festive Pizza,Pesto Bianco Pizza,Large Pesto Pizza,Bianco Pizza,Festive Bianco Pizza,Large Festive Pesto Pizza*",
+Festive Pesto Bianco Pizza,Extra Large,"*Extra Large Festive Pizza,Pesto Bianco Pizza,Extra Large Pesto Pizza,Bianco Pizza,Festive Bianco Pizza,Extra Large Festive Pesto Pizza*",
+Festive Pesto Bianco Pizza,Gluten Free,"*Gluten Free Festive Pizza,Pesto Bianco Pizza,Gluten Free Pesto Pizza,Bianco Pizza,Festive Bianco Pizza,Gluten Free Festive Pesto Pizza*",
+Holiday Cupcake,Single,"*Holiday Cupcakes,Cupcake,cupcakes*",
+Holiday Cupcake,4 Pack,"*Holiday Cupcakes,Cupcake,cupcakes*",
+Holiday Cupcake,Dozen,"*Holiday Cupcakes,Cupcake,cupcakes*",
+Cheese Pizza,Personal,"*Personal Cheese Pizza,Just cheese Pizza,Cheese Pizza Personal size,Cheese Pizzas,Cheese Pizza,Build your own Cheese Pizza,Build your own Pizza with Cheese,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Personal Pizza,Cheese Deluxe*",
+Cheese Pizza,Small,"*Small Cheese Pizza,Just cheese Pizza,Cheese Pizza Small,Small cheese,Cheese Pizzas,Cheese Pizza,Build your own Cheese Pizza,Build your own Pizza with Cheese,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Deluxe Pizza,Cheese Deluxe*",
+Cheese Pizza,Large,"*Large Cheese Pizza,Just cheese Pizza,Plain Cheese Pizza,cheese Pizza Large,Cheese Pizzas,Cheese Pizza,Large Build your own Cheese,Build your own Pizza with Cheese,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Deluxe Pizza,Cheese Deluxe*",
+Cheese Pizza,Extra Large,"*Extra Large Cheese Pizza,Just cheese Pizza,Plain Cheese Pizza,Extra Large Pizza,Cheese Pizzas,Cheese Pizza,Extra Large Build your own Pizza,Build your own Pizza with Cheese,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Deluxe Pizza,Cheese Deluxe*",
+Cheese Pizza,Gluten Free,"*Gluten Free Cheese Pizza,Just cheese Pizza,Plain Cheese Pizza,Gluten Free Pizza,Cheese Pizzas,Cheese Pizza,Build your own Cheese Pizza,Gluten Free Build your own Pizza,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Deluxe Pizza,Cheese Deluxe*",
+Side of Fire Sauce,Standard,"*Side Fire sauce, fire sauce on the side, fire sauce on side, side sauce fire, side of hot sauce, side hot sauce, hot sauce on side, hot sauce on the side,fire sauce*",
+Side of Buffalo Sauce,Standard,"*Side Buffalo Sauce, Buffalo Sauce on the side, Buffalo Sauce on side, side sauce Buffalo, side of Buffalo, side Buffalo, Buffalo on side, Buffalo on the side,Buffalo sauce,Buffalo*",
+Side of Hot and Mild Sauce,Standard,"*Side Hot and Mild Sauce, Hot and Mild Sauce on the side, Hot and Mild Sauce on side, side sauce Hot and Mild, side of Hot and Mild, side Hot and Mild, Hot and Mild on side, Hot and Mild on the side, Side of Hot ten mild, Side of Hot ten mild Sauce, Side of Hot ten mile, Side of Hot ten mile Sauce, Side of Hot en mild, Side of Hot en mild Sauce,Hot and Mild Sauce,Hot and Mild*",
+Side of Golden Buffalo Sauce,Standard,"*Side Golden Buffalo Sauce, Golden Buffalo Sauce on the side, Golden Buffalo Sauce on side, side sauce Golden Buffalo, side of Golden Buffalo, side Golden Buffalo, Golden Buffalo on side, Golden Buffalo on the side, Side of Golden Buffalo Sauce, Side of Gold Buffalo Sauce, Gold Buffalo Sauce on the Side,Golden Buffalo Sauce*",
+Side of Medium Sauce,Standard,"*Side Medium Sauce, Medium Sauce on the side, Medium Sauce on side, side sauce Medium, side of Medium, side Medium,Medium Sauce,medium*",
+Side of Chicago Mild Sauce,Standard,"*Side Chicago Mild Sauce, Chicago Mild Sauce on the side, Chicago Mild Sauce on side, side sauce Chicago Mild, side of Chicago Mild, side Chicago Mild, Chicago Mild on side, Chicago Mild on the side, Side of Chicago, Side of Chicago Sauce, Side of Mild Sauce, Mild Sauce on the Side, Mild on the Side,Chicago Mild Sauce*",
+Side of Sweet Barbecue Sauce,Standard,"*Side Sweet Barbecue Sauce, Sweet Barbecue Sauce on the side, Sweet Barbecue Sauce on side, side sauce Sweet Barbecue, side of Sweet Barbecue, side Sweet Barbecue, Sweet Barbecue on side, Sweet Barbecue on the side, Side of Sweet Sauce, Side of Sweet BBQ Sauce, Sweet BBQ Sauce on the Side, Sweet BBQ on the Side,Sweet Barbecue Sauce,Barbecue Sauce*",
+Side of Golden Barbecue Sauce,Standard,"*Side Golden Barbecue Sauce, Golden Barbecue Sauce on the side, Golden Barbecue Sauce on side, side sauce Golden Barbecue, side of Golden Barbecue, side Golden Barbecue, Golden Barbecue on side, Golden Barbecue on the side, Side of Golden Barbecue Sauce, Side of Gold Barbecue Sauce, Gold Barbecue Sauce on the Side, Side of Golden BBQ Sauce, Side of Gold BBQ Sauce, Golden BBQ Sauce on the Side, Golden BBQ on the Side,Golden Barbecue Sauce*",
+Side of Garlic Parmesan Sauce,Standard,"*Side Garlic Parmesan Sauce, Garlic Parmesan Sauce on the side, Garlic Parmesan Sauce on side, side sauce Garlic Parmesan, side of Garlic Parmesan, side Garlic Parmesan, Garlic Parmesan on side, Garlic Parmesan on the side, Side of Garlic Parm Sauce, Side of Garlic Parm, Garlic Parm Sauce on the Side, Garlic Parm on the Side,Garlic Parmesan Sauce,side of Cheese Sauce*",
+Side of Lemon Pepper Dry Rub,Standard,"*Side Lemon Pepper Dry Rub, Lemon Pepper Dry Rub on the side, Lemon Pepper Dry Rub on side, side Lemon Pepper Rub, side of Lemon Dry Rub, side Lemon Rub, Lemon Pepper Rub on side, Lemon Pepper Rub on the side, Side of Pepper Dry Rub, Side of Dry Lemon Pepper Rub, Dry Lemon Pepper Rub on the Side, Dry Rub on the Side, Lemon Pepper Dry Rub on the Side, Dry Rub on Side, Side of Dry Rub,Lemon Pepper Dry Rub*",
+Side of House Gorgonzola,Standard,"*Side House Gorgonzola, House Gorgonzola on the side, House Gorgonzola on side, side dressing House Gorgonzola, side of Gorgonzola, side Gorgonzola, Gorgonzola on side, Gorgonzola on the side, Side of House dressing, Side of House Gorgonzola dressing, House Gorgonzola dressing on the Side, Side of Gorgonzola dressing, Side of House, House dressing on the Side,House Gorgonzola*",
+Side of Bleu Cheese Dressing,Standard,"*Side Bleu Cheese Dressing, Bleu Cheese Dressing on the side, Bleu Cheese Dressing on side, side dressing Bleu Cheese, side of Bleu Cheese, side Bleu Cheese, Bleu Cheese on side, Bleu Cheese on the side, Side of Blue Cheese, Side of Blue Cheese dressing, Blue keys dressing on the Side, Side of Blue Kees, Side of Blue Keys, Blue Keys on the Side,Bleu Cheese Dressing,Bleu Cheese*",
+Side of Lite Italian Dressing,Standard,"*Side Lite Italian, Lite Italian on the side, Lite Italian on side, side dressing Lite Italian, side of Lite Italian dressing, side Lite Italian dressing, Lite Italian dressing on side, Italian dressing on the side, Side of Italian, Side of Italian dressing, side of light italian, side of light italian dressing, light italian dressing on side, italian dressing on side, side italian dressing, side of italian dressing,Lite Italian Dressing*",
+Side of French Dressing,Standard,"*Side French Dressing, French Dressing on the side, French Dressing on side, side dressing French, side of French, side French, French on side, French on the side,French Dressing*",
+Side of Caesar Dressing,Standard,"*Side Caesar Dressing, Caesar Dressing on the side, Caesar Dressing on side, side dressing Caesar, side of Caesar, side Caesar, Caesar on side, Caesar on the side,Caesar Dressing*",
+Side of Balsamic Vinaigrette,Standard,"*Side Balsamic Vinaigrette, Balsamic Vinaigrette on the side, Balsamic Vinaigrette on side, side Vinaigrette Balsamic, side of Balsamic, side Balsamic, Balsamic on side, Balsamic on the side,Balsamic Vinaigrette*",
+Side of Ranch Dressing,Standard,"*Side Ranch Dressing, Ranch Dressing on the side, Ranch Dressing on side, side Dressing Ranch, side of Ranch, side Ranch, Ranch on side, Ranch on the side,Ranch Dressing*",
+Side of Raspberry Vinaigrette,Standard,"*Side Raspberry Vinaigrette, Raspberry Vinaigrette on the side, Raspberry Vinaigrette on side, side Vinaigrette Raspberry, side of Raspberry, side Raspberry, Raspberry on side, Raspberry on the side,Raspberry Vinaigrette*",
+Side of Harvest Vinaigrette,Standard,"*Side Harvest Vinaigrette, Harvest Vinaigrette on the side, Harvest Vinaigrette on side, side Vinaigrette Harvest, side of Harvest, side Harvest, Harvest on side, Harvest on the side,Harvest Vinaigrette",
+Side of Apple Cider Vinaigrette,Standard,"*Side Apple Cider Vinaigrette, Apple Cider Vinaigrette on the side, Apple Cider Vinaigrette on side, side Vinaigrette Apple Cider, side of Apple Cider, side Apple Cider, Apple Cider on side, Apple Cider on the side, Side Apple Vinaigrette, Apple Vinaigrette on the side, Apple Vinaigrette on side, side Vinaigrette Apple, side of Cider Apple,Apple Cider Vinaigrette*",
+Cup of Chicken Noodle Soup,Standard,**,
+Side of Spinach Salad,Standard,*Side Hearty Spinach Salad*,
+Side of Signature Salad,Standard,*Side hri Signature Salad*,
+Side of Caesar Salad,Standard,**,
+Side of Harvest Salad,Standard,**,
+Side of Strawberry Walnut Salad,Standard,**,
+Side of Garden Salad,Standard,**,
+Small Tray Boneless Wings,Standard,"*Small Tray Boneless wings, Boneless wings Small Tray, Small Tray Boneless wing, Boneless wing Small Tray, Half Tray Boneless wings, Boneless wings Half Tray, Half Tray Boneless wing, Boneless wing Half Tray*",
+Large Tray Boneless Wings,Standard,"*Large Tray Boneless wings, Boneless wings Large Tray, Large Tray Boneless wing, Boneless wing Large Tray, Full Tray Boneless wings, Boneless wings Full Tray, Full Tray Boneless wing, Boneless wing Full Tray*",
+Cheesy Garlic Bread,Small Tray,"*Cheese Garlic Bread, Garlic Cheese Bread, Cheesy bread, Small tray Cheesy Garlic bread, Cheesy Garlic bread Small tray, Small tray Cheese Garlic Bread, Small tray Garlic Cheese Bread, Small tray Cheesy bread, Cheese Garlic Bread Small tray, Garlic Cheese Bread Small tray, Cheesy bread Small tray, Half tray Cheesy Garlic bread, Cheesy Garlic bread Half tray, Half tray Cheese Garlic Bread, Half tray Garlic Cheese Bread, Half tray Cheesy bread, Cheese Garlic Bread Half tray, Garlic Cheese Bread Half tray, Cheesy bread Half tray,garlic bread with cheese,garlic bread with the cheese*",
+Cheesy Garlic Bread,Large Tray,"*Cheese Garlic Bread, Garlic Cheese Bread, Cheesy bread, Large tray Cheesy Garlic bread, Cheesy Garlic bread Large tray, Large tray Cheese Garlic Bread, Large tray Garlic Cheese Bread, Large tray Cheesy bread, Cheese Garlic Bread Large tray, Garlic Cheese Bread Large tray, Cheesy bread Large tray, Full tray Cheesy Garlic bread, Cheesy Garlic bread Full tray, Full tray Cheese Garlic Bread, Full tray Garlic Cheese Bread, Full tray Cheesy bread, Cheese Garlic Bread Full tray, Garlic Cheese Bread Full tray, Cheesy bread Full tray,garlic bread with cheese,garlic bread with the cheese*",
+Garlic Bread,Small Tray,"*Classic Garlic Bread, Traditional Garlic Bread, Small Tray Garlic Bread, Garlic Bread Small Tray, Small Tray Classic Garlic Bread, Classic Garlic Bread Small Tray, Small Tray Traditional Garlic Bread, Traditional Garlic Bread Small Tray, Half Tray Garlic Bread, Garlic Bread Half Tray, Half Tray Classic Garlic Bread, Classic Garlic Bread Half Tray, Half Tray Traditional Garlic Bread, Traditional Garlic Bread Half Tray*",
+Garlic Bread,Large Tray,"*Classic Garlic Bread, Traditional Garlic Bread, Large Tray Garlic Bread, Garlic Bread Large Tray, Large Tray Classic Garlic Bread, Classic Garlic Bread Large Tray, Large Tray Traditional Garlic Bread, Traditional Garlic Bread Large Tray, Full Tray Garlic Bread, Garlic Bread Full Tray, Full Tray Classic Garlic Bread, Classic Garlic Bread Full Tray, Full Tray Traditional Garlic Bread, Traditional Garlic Bread Full Tray*",
+Small Tray Chicken Dippers,Standard,"*Small Tray Chicken Dippers, Half Tray Chicken Dippers, Chicken Dippers Small Tray, Chicken Dippers Half Tray, Small Tray Chicken Nuggets, Chicken Nuggets Small Tray, Half Tray Chicken Nuggets, Chicken Nuggets Half Tray, Small Tray Chicken Dipper, Half Tray Chicken Dipper, Chicken Dipper Small Tray, Chicken Dipper Half Tray, Small Tray Chicken Digger, Half Tray Chicken Digger, Chicken Digger Small Tray, Chicken Digger Half Tray,  Small Tray Chicken Deeper, Half Tray Chicken Deeper, Chicken Deeper Small Tray, Chicken Deeper Half Tray*",
+Large Tray Chicken Dippers,Standard,"*Full Tray Chicken Dippers, Chicken Dippers Large Tray, Chicken Dippers Full Tray, Large Tray Chicken Nuggets, Chicken Nuggets Large Tray, Full Tray Chicken Nuggets, Chicken Nuggets Full Tray, Large Tray Chicken Dipper, Full Tray Chicken Dipper, Chicken Dipper Large Tray, Chicken Dipper Full Tray, Large Tray Chicken Digger, Full Tray Chicken Digger, Chicken Digger Large Tray, Chicken Digger Full Tray,  Large Tray Chicken Deeper, Full Tray Chicken Deeper, Chicken Deeper Large Tray, Chicken Deeper Full Tray*",
+Vegetable Tray,Small Tray,"*Fresh Vegetable, Fresh Vegetables, Fresh Veggies, Veggie Tray, Vegetable Tray Half, Half Vegetable Tray, Small Vegetable Tray, Vegetable Tray Small, Veggie Tray Half, Half Veggie Tray, Small Veggie Tray, Veggie Tray Small*",
+Vegetable Tray,Large Tray,"*Fresh Vegetable, Fresh Vegetables, Fresh Veggies, Veggie Tray, Vegetable Tray Full, Full Vegetable Tray, Large Vegetable Tray, Vegetable Tray Large, Veggie Tray Full, Full Veggie Tray, Large Veggie Tray, Veggie Tray Large,Large vegetable tray*",
+Signature Salad,Small Tray,"*HRI Signature Salad,Home run in salad, Signature Salad, Small Tray Signature Salad, Half Tray Signature Salad*",
+Signature Salad,Large Tray,"*HRI Signature Salad,Home run in salad, Signature Salad, Large Tray Signature Salad, Full Tray Signature Salad*",
+Spinach Salad,Small Tray,"*Spinach Salad Small Tray, Half Tray Spinach Salad*",
+Spinach Salad,Large Tray,"*Spinach Salad Large Tray, Full Tray Spinach Salad*",
+Caesar Salad,Small Tray,"*Caesars Salad, Caesar Salads, she is your salad, seizure salad, ceasar salad, Small Tray Caesars Salad, Small Tray Caesar Salads, Small Tray she is your salad, Small Tray seizure salad, Small Tray ceasar salad, Caesars Salad Small Tray, Caesar Salads Small Tray, she is your salad Small Tray, seizure salad Small Tray, ceasar salad Small Tray, Half Tray Caesars Salad, Half Tray Caesar Salads, Half Tray she is your salad, Half Tray seizure salad, Half Tray ceasar salad, Caesars Salad Half Tray, Caesar Salads Half Tray, she is your salad Half Tray, seizure salad Half Tray, ceasar salad Half Tray*",
+Caesar Salad,Large Tray,"*Caesars Salad, Caesar Salads, she is your salad, seizure salad, ceasar salad, Large Tray Caesars Salad, Large Tray Caesar Salads, Large Tray she is your salad, Large Tray seizure salad, Large Tray ceasar salad, Caesars Salad Large Tray, Caesar Salads Large Tray, she is your salad Large Tray, seizure salad Large Tray, ceasar salad Large Tray, Full Tray Caesars Salad, Full Tray Caesar Salads, Full Tray she is your salad, Full Tray seizure salad, Full Tray ceasar salad, Caesars Salad Full Tray, Caesar Salads Full Tray, she is your salad Full Tray, seizure salad Full Tray, ceasar salad Full Tray*",
+Harvest Salad,Small Tray,"*Small Tray Harvest Salad, Harvest Salad Small Tray, Half Tray Harvest Salad, Harvest Salad Half Tray*",
+Harvest Salad,Large Tray,"*Large Tray Harvest Salad, Harvest Salad Large Tray, Full Tray Harvest Salad, Harvest Salad Full Tray*",
+Strawberry Walnut Salad,Small Tray,"*Small Tray Strawberry Walnut Salad, Strawberry Walnut Salad Small Tray, Half Tray Strawberry Walnut Salad, Strawberry Walnut Salad Half Tray, Small Tray Strawberry Salad, Strawberry Salad Small Tray, Small Tray Walnut Salad, Walnut Salad Small Tray, Small Tray Strawberry wallnut, Strawberry wallnut Small Tray, Half Tray Strawberry Salad, Strawberry Salad Half Tray, Half Tray Walnut Salad, Walnut Salad Half Tray, Half Tray Strawberry wallnut, Strawberry wallnut Half Tray,strawberries salad*",
+Strawberry Walnut Salad,Large Tray,"*Large Tray Strawberry Walnut Salad, Strawberry Walnut Salad Large Tray, Full Tray Strawberry Walnut Salad, Strawberry Walnut Salad Full Tray, Large Tray Strawberry Salad, Strawberry Salad Large Tray, Large Tray Walnut Salad, Walnut Salad Large Tray, Large Tray Strawberry wallnut, Strawberry wallnut Large Tray, Full Tray Strawberry Salad, Strawberry Salad Full Tray, Full Tray Walnut Salad, Walnut Salad Full Tray, Full Tray Strawberry wallnut, Strawberry wallnut Full Tray,strawberries salad*",
+Garden Salad,Small Tray,"*Small Tray Garden Salad, Garden Salad Small Tray, Half Tray Garden Salad, Garden Salad Half Tray*",
+Garden Salad,Large Tray,"*Large Tray Garden Salad, Garden Salad Large Tray, Full Tray Garden Salad, Garden Salad Full Tray*",
+Signature Catering Package,Standard,"*Signature Package, Signature Catering Combo, Signature Combo, Five Pizza combo, Catering Combo*",
+Third Cheese Pizza,Extra Large,"*Extra Large Cheese Pizza,Just cheese Pizza,Plain Cheese Pizza,Extra Large Pizza,Cheese Pizzas,Cheese Pizza,Extra Large Build your own Pizza,Build your own Pizza with Cheese,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Deluxe Pizza,Cheese Deluxe*",
+First Cheese Pizza,Extra Large,"*Extra Large Cheese Pizza,Just cheese Pizza,Plain Cheese Pizza,Extra Large Pizza,Cheese Pizzas,Cheese Pizza,Extra Large Build your own Pizza,Build your own Pizza with Cheese,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Deluxe Pizza,Cheese Deluxe*",
+Second Cheese Pizza,Extra Large,"*Extra Large Cheese Pizza,Just cheese Pizza,Plain Cheese Pizza,Extra Large Pizza,Cheese Pizzas,Cheese Pizza,Extra Large Build your own Pizza,Build your own Pizza with Cheese,Cheese Lovers Delight,Cheese Lovers Pizza,Just Cheese Pizza,Plain Cheese Pizza,Only Cheese Pizza,Deluxe Cheese,Deluxe Pizza,Cheese Deluxe*",
+Cheese Toasted Ravioli,12 piece,"*Cheese Ravioli, Toasted Cheese Ravioli, Ravioli with Cheese, Ravioli Cheese, Toasted Ravioli with Cheese, Ravioli with Cheese,Toasted Ravioli,raviolis*",
+Beef Toasted Ravioli,12 piece,"*Beef Ravioli, Toasted Beef Ravioli, Ravioli with Beef, Ravioli Beef, Toasted Ravioli with Beef, Ravioli with Beef,Toasted Ravioli,raviolis*",
+Mixed Toasted Ravioli,12 piece,"*Mixed Ravioli, Toasted Mixed Ravioli, Mix Ravioli, Ravioli with Cheese and Beef, Toasted Ravioli with cheese and Beef, Ravioli with Beef and Cheese, Toasted Ravioli with Beef and Cheese, Mix Toasted Ravioli,Toasted Ravioli,raviolis*",
+Game Day Special Combo,Standard,"*Game Day Special, Game Special, Game Day Combo, Game Combo*",
+First Cheese Pizza,Large,,
+Second Cheese Pizza,Large,,
+Italian Salad,Small,"*Classic Italian Salad, Classic Italian, Small Italian Salad, Small Classic Italian Salad, Small Classic Italian, Small Italian*",
+Italian Salad,Entree,"*Classic Italian Salad, Classic Italian, Entree Italian Salad, Entree Classic Italian Salad, Entree Classic Italian, Entree Italian*",
+Italian Salad,Small Tray,"*Classic Italian Salad, Classic Italian*",
+Italian Salad,Large Tray,"*Classic Italian Salad, Classic Italian*",
+Side of Italian Salad,Standard,**,
